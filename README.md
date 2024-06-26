@@ -5,7 +5,7 @@
 
 초보자도 쉽게 배울 수 있도록 SQL 튜닝 수업 내용을 정리
 
-<img src="https://github.com/godeboon/tjrtmddus/upload/main" width="600" height="400">
+<img src="https://github.com/godeboon/tjrtmddus/blob/main/001.png" width="600" height="400">
 
 
 &nbsp;
